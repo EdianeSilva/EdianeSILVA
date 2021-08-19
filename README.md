@@ -1,6 +1,6 @@
-### OLÁ 👋
+### OLÁ BEM VINDO 👋
 
-- 🔭 Atualmente estou à procura de Estágio na área de programação ou automação
+- 🔭 Sou uma estudante de Mecatrônica apaixonada pela área de automação, e extremamente empenhada em desenvolver projetos inovadores. Posso colaborar com sua equipe? Estou    disponível para estágio.
 - 🌱 Estou aprendendo CSS,Pyton e html além das aulas da grade de Mecatrônica.🤔⚡ 
 -  <div>
   <a href="https://github.com/EdianeSilva">
