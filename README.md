@@ -12,7 +12,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Garota"  height="100" width="100" src="https://wallpaperaccess.com/full/4247909.jpg">
-  <img align="right" alt="Garota"  height="100" width="100" C:\Users\Cliente\Downloads">
+ ##
+  <img align="right" alt="cafe"  height="100" width="100" src="https://1.bp.blogspot.com/-suRMJkTToO0/XRP9e_lGl9I/AAAAAAABJsE/iqMpJBvV8yQqPKPOCtReQ3HHLIsNdY8NwCLcBGAs/s400/6a8368aeceb29c6cb2192455b9bde047.gif">
+  
 </div>
   
  ##
