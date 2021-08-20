@@ -22,5 +22,6 @@
 <div>
   <a href="https://www.linkedin.com/in/ediane-oliveira-da-silva-2314661b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
- ![Snake animation](https://github.com/EdianeSilva/EdianeSILVA/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/EdianeSilva/EdianeSILVA/blob/main/.github/workflows/main.yml/github-contribution-grid-snake.svg)
+  
 </div>
