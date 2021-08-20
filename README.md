@@ -7,11 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdianeSilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Garota"  height="100" width="100" src="https://wallpaperaccess.com/full/4247909.jpg">
+  <img align="center" alt="edi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="edi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="edi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="edi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="loading"  height="100" width="100" src="https://img.pikbest.com/58pic/35/39/61/62K58PICb88i68HEwVnm5_PIC2018.gif!w340">
  ##
   <img align="right" alt="cafe"  height="100" width="100" src="https://1.bp.blogspot.com/-suRMJkTToO0/XRP9e_lGl9I/AAAAAAABJsE/iqMpJBvV8yQqPKPOCtReQ3HHLIsNdY8NwCLcBGAs/s400/6a8368aeceb29c6cb2192455b9bde047.gif">
  ##
