@@ -1,6 +1,6 @@
 ### OLÁ BEM VINDO 👋
 
-- 🔭 Sou uma estudante de Mecatrônica apaixonada pela área de automação, e extremamente empenhada em desenvolver projetos inovadores. Posso colaborar com sua equipe? Estou    disponível para estágio.
+- 🔭 Sou uma estudante de Mecatrônica apaixonada pela área de automação e desenvolvimento web, e extremamente empenhada em desenvolver projetos inovadores. Posso colaborar com sua equipe? Estou    disponível para estágio.
 
 <div>  
   <a href="https://github.com/EdianeSilva">
@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/ediane-oliveira-da-silva-2314661b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EdianeSilva/EdianeSilva/blob/output/github-contribution-grid-snake.svg)
   
 </div>
