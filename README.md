@@ -1,6 +1,6 @@
 ### OLÁ, BEM VINDO 👋
 
-- 🔭 Sou uma estudante de Mecatrônica apaixonada pela área de automação e desenvolvimento web, e extremamente empenhada em desenvolver projetos inovadores. Posso colaborar com sua equipe? Estou disponível para estágio.
+- 🔭 Sou formada em Mecatrônica e Front-end apaixonada pela área de automação e desenvolvimento web, e extremamente empenhada em desenvolver projetos inovadores.
 
 <div>  
   <a href="https://github.com/EdianeSilva">
